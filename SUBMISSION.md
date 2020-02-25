@@ -19,14 +19,14 @@ ID.
 
 5 pts The section of the POM file showing the coordinates after you’ve commented them
 out.
-![Ant 1](images/ant-dir.jpg)
+![5](images/comment-out-coord.jpg)
 
 5 pts Your Travis CI dashboard showing the unsuccessful build after the breaking change.
-![Ant 1](images/ant-dir.jpg)
+![6](images/build-error.jpg)
 
 5 pts Your Github repository with the readme.md file selected showing the build failed
 status after the Travis CI build fails.
-![Ant 1](images/ant-dir.jpg)
+![7](images/github-error.jpg)
 
 5 pts The section of the POM file showing the coordinates after you’ve fixed them.
 ![Ant 1](images/ant-dir.jpg)
