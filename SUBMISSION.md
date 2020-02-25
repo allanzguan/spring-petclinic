@@ -29,7 +29,7 @@ status after the Travis CI build fails.
 ![7](images/github-error.jpg)
 
 5 pts The section of the POM file showing the coordinates after you’ve fixed them.
-![8](images/fix pom.jpg)
+![8](images/fix-pom.jpg)
 
 5 pts Your Travis CI dashboard showing the successful build after the breaking change has
 been fixed.
