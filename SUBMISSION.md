@@ -8,14 +8,14 @@ directory and add links to those images to the SUBMISSION.md file. The images yo
 ![1](images/show-forked.jpg)
 
 5 pts Your Travis CI dashboard showing a successful first build.
-![Ant 1](images/first-build.jpg)
+![2](images/first-build.jpg)
 
 5 pts The section of the POM file showing the coordinates after you’ve changed them.
-![Ant 1](images/change-coord.jpg)
+![3](images/change-coord.jpg)
 
 5 pts Your Travis CI dashboard showing a successful build after your change of the group
 ID.
-![Ant 1](images/ant-dir.jpg)
+![4](images/second-build.jpg)
 
 5 pts The section of the POM file showing the coordinates after you’ve commented them
 out.
