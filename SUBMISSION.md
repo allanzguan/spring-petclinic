@@ -29,12 +29,12 @@ status after the Travis CI build fails.
 ![7](images/github-error.jpg)
 
 5 pts The section of the POM file showing the coordinates after you’ve fixed them.
-![Ant 1](images/ant-dir.jpg)
+![8](images/fix pom.jpg)
 
 5 pts Your Travis CI dashboard showing the successful build after the breaking change has
 been fixed.
-![Ant 1](images/ant-dir.jpg)
+![9](images/build-after-fix.jpg)
 
 5 pts Your Github repository with the readme.md file selected showing the build success
 status after the Travis CI build has recovered.
-![Ant 1](images/ant-dir.jpg)
+![10](images/build-pass-after-fix.jpg)
