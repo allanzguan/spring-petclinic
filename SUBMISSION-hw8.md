@@ -6,6 +6,7 @@ Allan Guan
 ## DOCKER
 
  Your dockerfile. Please provide a link to this file rather than a screen capture.
+ 
 [https://github.com/allanzguan/spring-petclinic/blob/master/Dockerfiles/Dockerfile](https://github.com/allanzguan/spring-petclinic/blob/master/Dockerfiles/Dockerfile)
 
  Your running docker instance as shown by a ps command.
